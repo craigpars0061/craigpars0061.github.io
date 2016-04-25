@@ -28,7 +28,13 @@ var reference_content = [
       title: "Mailgun",
       link: "http://www.mailgun.com",
       imageURL:"http://blog.mailgun.com/content/images/2015/06/Mailgun_Icon.png",
-      keywords: ['api', 'smtp']
+      keywords: ['api', 'smtp'],
+      style: {
+        backgroundColor: "#e6e6e6",
+        color: "#777",
+        fontSize: "40px",
+        letterSpacing: "0.5px"
+      }
     }
   ]
 ]
