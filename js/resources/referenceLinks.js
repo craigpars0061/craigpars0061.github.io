@@ -2,6 +2,9 @@ var reference_content = [
   [  // row
     { // block
       title: "Materialize Css",
+      style: {
+        height: "175px",
+      },
       link: "http://materializecss.com/",
       imageURL: "assets/blocks/MaterializeCss.jpeg",
       keywords: ["Material Design", "CSS", "JQuery", "Responsive front-end framework"]
@@ -13,6 +16,7 @@ var reference_content = [
       keywords: ["PHP back-end framework"],
       style: {
         backgroundColor: "#e6e6e6",
+        height: "175px",
         color: "#777",
         fontSize: "40px",
         letterSpacing: "0.5px"
@@ -20,6 +24,9 @@ var reference_content = [
     },
     { // block
       title: "Wordpress",
+      style: {
+        height: "175px",
+      },
       link: "https://wordpress.org/",
       imageURL: "assets/blocks/wordpress-logo.jpg",
       keywords: ["Mysql", "File Upload", "Admin"]
@@ -32,6 +39,7 @@ var reference_content = [
       style: {
         backgroundColor: "#e6e6e6",
         color: "#777",
+        height: "175px",
         fontSize: "40px",
         letterSpacing: "0.5px"
       }
