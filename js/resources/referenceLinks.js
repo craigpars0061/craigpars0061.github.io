@@ -23,6 +23,12 @@ var reference_content = [
       link: "https://wordpress.org/",
       imageURL: "assets/blocks/wordpress-logo.jpg",
       keywords: ["Mysql", "File Upload", "Admin"]
+    },
+    {
+      title: "Mailgun",
+      link: "http://www.mailgun.com",
+      imageURL:"http://blog.mailgun.com/content/images/2015/06/Mailgun_Icon.png",
+      keywords: ['api', 'smtp']
     }
   ]
 ]
