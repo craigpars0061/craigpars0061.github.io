@@ -8,7 +8,7 @@ var pendulum_content = [
     { // block
       title: "Pendulum Photography",
       style: {
-        height: "240px",
+        height: "200px",
         color: "#cfd8dc",
         letterSpacing: "0.5px"
       },
