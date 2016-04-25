@@ -18,7 +18,7 @@ var reference_content = [
       style: {
         backgroundColor: "#e6e6e6",
         height: "175px",
-        color: "#f4645f",
+        color: "#FFA500",
         fontSize: "40px",
         letterSpacing: "0.5px"
       }
@@ -39,7 +39,7 @@ var reference_content = [
       keywords: ['api', 'smtp'],
       style: {
         backgroundColor: "#e6e6e6",
-        color: "#777",
+        color: "#f4645f",
         height: "175px",
         fontSize: "40px",
         letterSpacing: "0.5px"
