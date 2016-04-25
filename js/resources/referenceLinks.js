@@ -3,6 +3,7 @@ var reference_content = [
     { // block
       title: "Materialize Css",
       style: {
+        backgroundColor: "#e6e6e6",
         height: "175px",
       },
       link: "http://materializecss.com/",
@@ -17,7 +18,7 @@ var reference_content = [
       style: {
         backgroundColor: "#e6e6e6",
         height: "175px",
-        color: "#777",
+        color: "#f4645f",
         fontSize: "40px",
         letterSpacing: "0.5px"
       }
