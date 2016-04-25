@@ -1,6 +1,8 @@
-*Portfolio
-I used this library to create the grid, I highly recommend it.
-*Gridfolio* is a super simple portfolio generator.
+*Portfolio*
+Gridfolio is the library I used to create the grid, I highly recommend it.
 
 (http://christinecha.com/)
-(http://christinecha.github.io/gridfolio/)
+
+*Gridfolio*
+is a super simple portfolio generator.
+
